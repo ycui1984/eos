@@ -763,7 +763,7 @@ static int echo_to_sysfs(void)
 
 			if (IS_ERR(file)) {
 				ret = PTR_ERR(file);
-				printk("cannot open %s, error=%d\n", vector.dim[i].loc, ret);
+				//printk("cannot open %s, error=%d\n", vector.dim[i].loc, ret);
 				return -1;
 			}
 			if (0 == strcmp("enum", vector.dim[i].type)) {
