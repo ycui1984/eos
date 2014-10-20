@@ -1,0 +1,14 @@
+README
+
+1. To compile alloc_anon_memory.c invoke
+   $ gcc alloc_anon_memory.c -o alloc_anon_memory.exe
+
+2. To compile uevent_listener.c invoke
+   $ gcc -Wall -g -o uevent_listener.exe uevent_listener.c -ludev
+
+   - When running ./uevent_listener.c please run it with sudo permissions, so
+     that the program has permissions to write the new configurations
+
+   - Tutorial for using udevmonitor and sysfs when writing uevent_listener.c
+     described in:
+     http://www.signal11.us/oss/udev/

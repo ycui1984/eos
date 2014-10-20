@@ -1,0 +1,5 @@
+#D is description of variables
+<D:m1:spinlock:method:/proc/lock_selector:enum:TAS:TAS,QUEUE,TICKET>
+<D:v1:spinlock:value:/proc/backoff_factor:int:0:0,32,2>
+#C is dependance
+<C:v1:m1,2>

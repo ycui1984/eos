@@ -1,0 +1,4 @@
+#D is description of variables
+<D:v1:cpu:value:/proc/sys/kernel/sched_min_granularity_ns:int:3000000:1000000,12000000,1000000>
+<D:v2:cpu:value:/proc/sys/kernel/sched_latency_ns:int:24000000:1000000,200000000,2000000>
+<D:v3:cpu:value:/proc/sys/kernel/sched_wakeup_granularity_ns:int:4000000:1000000,12000000,1000000>
