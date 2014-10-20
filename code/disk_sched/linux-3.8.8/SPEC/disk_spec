@@ -1,7 +1,7 @@
 #D is description of variables
-<D:m1:io:method:/sys/block/vda/queue/scheduler:enum:deadline:cfq,deadline,noop>
-<D:v1:io:value:/sys/block/vda/queue/read_ahead_kb:int:128:0,2048,128>
-<D:v2:io:value:/sys/block/vda/queue/nr_requests:int:128:64,4096,128>
-<D:v3:io:value:/sys/block/vda/queue/iosched/quantum:int:8:0,128,2>
+<D:m1:io:method:/sys/block/<hard disk id>/queue/scheduler:enum:deadline:cfq,deadline,noop>
+<D:v1:io:value:/sys/block/<hard disk id>/queue/read_ahead_kb:int:128:0,2048,128>
+<D:v2:io:value:/sys/block/<hard disk id>/queue/nr_requests:int:128:64,4096,128>
+<D:v3:io:value:/sys/block/<hard disk id>/queue/iosched/quantum:int:8:0,128,2>
 #C is dependance
 <C:v3:m1,0>
