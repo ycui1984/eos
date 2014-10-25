@@ -1,6 +1,6 @@
 
-the video can be downloaded at
-http://youtu.be/k5F3xIzXD0c
+the video can also be downloaded at Youtube
+http://youtu.be/KYFO6RVoX_A
 
 it compares the performance of clean Linux 
 and the kernel with our modifications, the 
