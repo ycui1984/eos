@@ -1,16 +1,16 @@
 1.0 OVERVIEW
 
 this repo contains source code and doc of the contest software
-doc/ directory contains all the description of design and
+``doc/`` directory contains all the description of design and
 implementation. Please read it to understand this software project.
 
-code/ directory contains all source codes. Basically,
+``code/`` directory contains all source codes. Basically,
 we modify four parts in the Linux kernel 3.8.8 to demonstrate our
 idea. Specifically, disk scheduling, CPU scheduling, synchronization
 and page replacement. There are three subdirs under code.
-disk\_sched/ dir is the kernel code which finishes disk scheduling and 
-cpu scheduling, syn/ is the code which finishes synchronization and 
-pagecache/ is the code which finishes page cache replacement.
+``disk_sched/`` dir is the kernel code which finishes disk scheduling and 
+cpu scheduling, ``syn/`` is the code which finishes synchronization and 
+``pagecache/`` is the code which finishes page cache replacement.
 We also upload clean linux kernel(without modifications). 
 One can see the modifications we made by creating patches.
 For example, if one want to see the code to implement the synchronization
@@ -21,7 +21,10 @@ this project modifies Linux kernel to improve its performance.
 So, at least, this project requires a Linux machine. 
 To test a particular part, we need to compile the kernel first.
 The following example tests the efficiency of CPU scheduling.
-One should perform similar steps to test other parts.
+One should perform similar steps to test other parts. Note that if one 
+wants to test the effectiveness of syn subsystem, a system with multiple
+cores should be used. Typically, more than 16 cores. In our testing(see ``doc/``),
+a 48 core system is used.
 
 2.1 ``cd code/disk_sched``  
 
