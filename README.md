@@ -1,4 +1,4 @@
-1. OVERVIEW
+1.0 OVERVIEW
 
 this repo contains source code and doc of the contest software
 doc/ directory contains all the description of design and
@@ -12,7 +12,7 @@ disk\_sched dir is the kernel code which finishes disk scheduling and
 cpu scheduling, syn is the code which finishes synchronization and 
 pagecache is the code which finishes page cache replacement.
 
-2. INSTALLATION INSTRUCTIONS
+2.0 INSTALLATION INSTRUCTIONS
 this project modifies Linux kernel to improve its performance.
 So, at least, this project requires a Linux machine. 
 To test a particular part, we need to compile the kernel first.
@@ -39,7 +39,7 @@ One should perform similar steps to test other parts.
 
 2.10 echo disable > /proc/fast\_auto
 
-3. run test presented in video
+3.0 run test presented in video
 
 3.1 go to code/disk\_sched/cilk-5.4.6/
 
