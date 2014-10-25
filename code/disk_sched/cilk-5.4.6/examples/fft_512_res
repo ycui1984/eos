@@ -1,0 +1,50 @@
+
+Cilk Example: fft
+	      running on 512 processors
+
+Options:  number of elements   n = 134217728
+
+Running time  = 14.029556 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: fft
+	      running on 512 processors
+
+Options:  number of elements   n = 134217728
+
+Running time  = 10.823684 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: fft
+	      running on 512 processors
+
+Options:  number of elements   n = 134217728
+
+Running time  = 14.040937 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: fft
+	      running on 512 processors
+
+Options:  number of elements   n = 134217728
+
+Running time  = 13.946979 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: fft
+	      running on 512 processors
+
+Options:  number of elements   n = 134217728
+
+Running time  = 14.329496 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+

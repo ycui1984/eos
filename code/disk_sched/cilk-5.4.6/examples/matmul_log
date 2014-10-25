@@ -1,0 +1,95 @@
+
+Cilk Example: matmul
+	      running on 512 processors
+
+Max error     = 2.12957e-06
+Options: size = 1000
+Running time  = 3.587010 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+``MFLOPS''    = 557.567445
+
+
+real	4m25.385s
+user	34m17.580s
+sys	0m59.340s
+
+Cilk Example: matmul
+	      running on 512 processors
+
+Max error     = 2.12957e-06
+Options: size = 1000
+Running time  = 3.721388 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+``MFLOPS''    = 537.433882
+
+
+real	4m31.033s
+user	35m0.308s
+sys	1m1.488s
+
+Cilk Example: matmul
+	      running on 512 processors
+
+Max error     = 2.12957e-06
+Options: size = 1000
+Running time  = 4.454587 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+``MFLOPS''    = 448.975404
+
+
+real	4m28.315s
+user	34m39.796s
+sys	0m59.912s
+
+Cilk Example: matmul
+	      running on 512 processors
+
+Max error     = 2.12957e-06
+Options: size = 1000
+Running time  = 3.420164 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+``MFLOPS''    = 584.767280
+
+
+real	4m32.733s
+user	35m12.428s
+sys	1m2.776s
+
+Cilk Example: matmul
+	      running on 512 processors
+
+Max error     = 2.12957e-06
+Options: size = 1000
+Running time  = 3.463169 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+``MFLOPS''    = 577.505747
+
+
+real	4m30.357s
+user	34m55.224s
+sys	1m0.964s
+
+Cilk Example: matmul
+	      running on 512 processors
+
+Max error     = 2.12957e-06
+Options: size = 1000
+Running time  = 1.281757 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+``MFLOPS''    = 1560.358165
+
+
+real	0m45.171s
+user	5m38.144s
+sys	0m12.096s
+batch.sh: line 6: ./: Is a directory
+
+real	0m0.224s
+user	0m0.000s
+sys	0m0.000s

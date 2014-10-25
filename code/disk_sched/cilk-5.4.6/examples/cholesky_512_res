@@ -1,0 +1,85 @@
+
+Cilk Example: cholesky
+	      running on 512 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 454.965387 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: cholesky
+	      running on 512 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 457.860772 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: cholesky
+	      running on 512 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 444.878934 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: cholesky
+	      running on 512 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 450.809719 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: cholesky
+	      running on 512 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 446.779494 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+

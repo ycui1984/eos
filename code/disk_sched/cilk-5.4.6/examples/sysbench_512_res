@@ -1,0 +1,125 @@
+sysbench 0.4.12:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 64
+
+Doing thread subsystem performance test
+Thread yields per test: 250000 Locks used: 16
+Threads started!
+Done.
+
+
+Test execution summary:
+    total time:                          508.3823s
+    total number of events:              10000
+    total time taken by event execution: 32496.9935
+    per-request statistics:
+         min:                               1623.20ms
+         avg:                               3249.70ms
+         max:                               5501.27ms
+         approx.  95 percentile:            3858.57ms
+
+Threads fairness:
+    events (avg/stddev):           156.2500/1.48
+    execution time (avg/stddev):   507.7655/0.52
+
+sysbench 0.4.12:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 64
+
+Doing thread subsystem performance test
+Thread yields per test: 250000 Locks used: 16
+Threads started!
+Done.
+
+
+Test execution summary:
+    total time:                          516.1639s
+    total number of events:              10000
+    total time taken by event execution: 32997.4415
+    per-request statistics:
+         min:                                894.32ms
+         avg:                               3299.74ms
+         max:                               5960.11ms
+         approx.  95 percentile:            3939.09ms
+
+Threads fairness:
+    events (avg/stddev):           156.2500/1.46
+    execution time (avg/stddev):   515.5850/0.49
+
+sysbench 0.4.12:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 64
+
+Doing thread subsystem performance test
+Thread yields per test: 250000 Locks used: 16
+Threads started!
+Done.
+
+
+Test execution summary:
+    total time:                          511.9574s
+    total number of events:              10000
+    total time taken by event execution: 32727.9712
+    per-request statistics:
+         min:                               1367.47ms
+         avg:                               3272.80ms
+         max:                               6175.84ms
+         approx.  95 percentile:            3924.97ms
+
+Threads fairness:
+    events (avg/stddev):           156.2500/1.36
+    execution time (avg/stddev):   511.3745/0.48
+
+sysbench 0.4.12:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 64
+
+Doing thread subsystem performance test
+Thread yields per test: 250000 Locks used: 16
+Threads started!
+Done.
+
+
+Test execution summary:
+    total time:                          510.1176s
+    total number of events:              10000
+    total time taken by event execution: 32609.4754
+    per-request statistics:
+         min:                               1624.27ms
+         avg:                               3260.95ms
+         max:                               5760.26ms
+         approx.  95 percentile:            3888.71ms
+
+Threads fairness:
+    events (avg/stddev):           156.2500/1.15
+    execution time (avg/stddev):   509.5231/0.52
+
+sysbench 0.4.12:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 64
+
+Doing thread subsystem performance test
+Thread yields per test: 250000 Locks used: 16
+Threads started!
+Done.
+
+
+Test execution summary:
+    total time:                          514.7779s
+    total number of events:              10000
+    total time taken by event execution: 32913.6599
+    per-request statistics:
+         min:                                435.34ms
+         avg:                               3291.37ms
+         max:                               5998.43ms
+         approx.  95 percentile:            3944.99ms
+
+Threads fairness:
+    events (avg/stddev):           156.2500/1.35
+    execution time (avg/stddev):   514.2759/0.42
+

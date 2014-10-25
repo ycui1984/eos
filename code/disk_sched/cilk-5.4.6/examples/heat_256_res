@@ -1,0 +1,95 @@
+
+Cilk Example: heat
+	      running on 256 processors
+
+
+   dx = 0.000015
+   dy = 0.000153
+   dt = 0.000000
+
+ Stability Value for explicit method must be > 0:  -3.792124
+
+Options: granularity = 10
+         nx          = 102400
+         ny          = 10240
+         nt          = 100
+Running time  = 211.942728 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: heat
+	      running on 256 processors
+
+
+   dx = 0.000015
+   dy = 0.000153
+   dt = 0.000000
+
+ Stability Value for explicit method must be > 0:  -3.792124
+
+Options: granularity = 10
+         nx          = 102400
+         ny          = 10240
+         nt          = 100
+Running time  = 212.460242 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: heat
+	      running on 256 processors
+
+
+   dx = 0.000015
+   dy = 0.000153
+   dt = 0.000000
+
+ Stability Value for explicit method must be > 0:  -3.792124
+
+Options: granularity = 10
+         nx          = 102400
+         ny          = 10240
+         nt          = 100
+Running time  = 212.720219 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: heat
+	      running on 256 processors
+
+
+   dx = 0.000015
+   dy = 0.000153
+   dt = 0.000000
+
+ Stability Value for explicit method must be > 0:  -3.792124
+
+Options: granularity = 10
+         nx          = 102400
+         ny          = 10240
+         nt          = 100
+Running time  = 212.251832 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: heat
+	      running on 256 processors
+
+
+   dx = 0.000015
+   dy = 0.000153
+   dt = 0.000000
+
+ Stability Value for explicit method must be > 0:  -3.792124
+
+Options: granularity = 10
+         nx          = 102400
+         ny          = 10240
+         nt          = 100
+Running time  = 212.087998 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+

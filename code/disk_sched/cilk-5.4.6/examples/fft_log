@@ -1,0 +1,70 @@
+
+Cilk Example: fft
+	      running on 1024 processors
+
+Options:  number of elements   n = 402653184
+
+Running time  = 68.915847 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	5m14.008s
+user	11m39.508s
+sys	30m4.916s
+
+Cilk Example: fft
+	      running on 1024 processors
+
+Options:  number of elements   n = 402653184
+
+Running time  = 68.661089 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	3m40.261s
+user	9m28.780s
+sys	19m45.992s
+
+Cilk Example: fft
+	      running on 1024 processors
+
+Options:  number of elements   n = 402653184
+
+Running time  = 69.333172 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	4m58.226s
+user	11m26.828s
+sys	28m10.848s
+
+Cilk Example: fft
+	      running on 1024 processors
+
+Options:  number of elements   n = 402653184
+
+Running time  = 69.904223 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	4m9.091s
+user	10m9.764s
+sys	22m55.924s
+
+Cilk Example: fft
+	      running on 1024 processors
+
+Options:  number of elements   n = 402653184
+
+Running time  = 68.389786 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	6m23.888s
+user	13m23.144s
+sys	37m37.596s

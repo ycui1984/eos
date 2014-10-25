@@ -1,0 +1,50 @@
+
+Cilk Example: cilksort
+	      running on 256 processors
+
+options: number of elements = 180000000
+
+Running time  = 7.002759 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: cilksort
+	      running on 256 processors
+
+options: number of elements = 180000000
+
+Running time  = 6.700296 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: cilksort
+	      running on 256 processors
+
+options: number of elements = 180000000
+
+Running time  = 6.442747 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: cilksort
+	      running on 256 processors
+
+options: number of elements = 180000000
+
+Running time  = 6.828442 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+Cilk Example: cilksort
+	      running on 256 processors
+
+options: number of elements = 180000000
+
+Running time  = 7.068543 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+

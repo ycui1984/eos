@@ -1,0 +1,210 @@
+
+Cilk Example: cholesky
+	      running on 256 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 350.106320 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	10m2.282s
+user	77m52.868s
+sys	1m36.068s
+
+Cilk Example: cholesky
+	      running on 256 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 345.546263 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	9m59.044s
+user	77m32.156s
+sys	1m34.284s
+
+Cilk Example: cholesky
+	      running on 256 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 349.766617 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	9m59.593s
+user	77m37.648s
+sys	1m35.080s
+
+Cilk Example: cholesky
+	      running on 256 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 349.784568 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	10m3.146s
+user	78m4.160s
+sys	1m37.208s
+
+Cilk Example: cholesky
+	      running on 256 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 352.803434 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	10m1.738s
+user	77m52.224s
+sys	1m36.736s
+
+Cilk Example: cholesky
+	      running on 512 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 451.203204 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	12m9.325s
+user	94m46.324s
+sys	1m42.028s
+
+Cilk Example: cholesky
+	      running on 512 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 453.219016 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	12m11.147s
+user	94m57.356s
+sys	1m43.564s
+
+Cilk Example: cholesky
+	      running on 512 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 444.151099 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	11m58.685s
+user	93m22.288s
+sys	1m40.112s
+
+Cilk Example: cholesky
+	      running on 512 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 447.432512 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	12m3.369s
+user	93m53.436s
+sys	1m41.148s
+
+Cilk Example: cholesky
+	      running on 512 processors
+
+Error: 0.000000
+
+Options: original size     = 10000
+         original nonzeros = 100000
+         input nonzeros    = 106384
+         input blocks      = 92843
+         output nonzeros   = 42261837
+         output blocks     = 3021504
+
+Running time  = 445.812103 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	11m58.967s
+user	93m24.284s
+sys	1m39.052s

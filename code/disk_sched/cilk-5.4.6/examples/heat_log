@@ -1,0 +1,115 @@
+
+Cilk Example: heat
+	      running on 256 processors
+
+
+   dx = 0.000015
+   dy = 0.000153
+   dt = 0.000000
+
+ Stability Value for explicit method must be > 0:  -3.792124
+
+Options: granularity = 10
+         nx          = 102400
+         ny          = 10240
+         nt          = 100
+Running time  = 213.364307 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	3m47.009s
+user	29m16.404s
+sys	0m15.056s
+
+Cilk Example: heat
+	      running on 256 processors
+
+
+   dx = 0.000015
+   dy = 0.000153
+   dt = 0.000000
+
+ Stability Value for explicit method must be > 0:  -3.792124
+
+Options: granularity = 10
+         nx          = 102400
+         ny          = 10240
+         nt          = 100
+Running time  = 212.036392 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	3m45.777s
+user	29m17.640s
+sys	0m15.216s
+
+Cilk Example: heat
+	      running on 256 processors
+
+
+   dx = 0.000015
+   dy = 0.000153
+   dt = 0.000000
+
+ Stability Value for explicit method must be > 0:  -3.792124
+
+Options: granularity = 10
+         nx          = 102400
+         ny          = 10240
+         nt          = 100
+Running time  = 212.003338 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	3m45.806s
+user	29m16.912s
+sys	0m15.636s
+
+Cilk Example: heat
+	      running on 256 processors
+
+
+   dx = 0.000015
+   dy = 0.000153
+   dt = 0.000000
+
+ Stability Value for explicit method must be > 0:  -3.792124
+
+Options: granularity = 10
+         nx          = 102400
+         ny          = 10240
+         nt          = 100
+Running time  = 212.734540 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	3m46.733s
+user	29m24.664s
+sys	0m15.232s
+
+Cilk Example: heat
+	      running on 256 processors
+
+
+   dx = 0.000015
+   dy = 0.000153
+   dt = 0.000000
+
+ Stability Value for explicit method must be > 0:  -3.792124
+
+Options: granularity = 10
+         nx          = 102400
+         ny          = 10240
+         nt          = 100
+Running time  = 212.276217 s
+Work          = 0.000000 s
+Critical path = 0.000000 s
+
+
+real	3m46.067s
+user	29m18.160s
+sys	0m15.176s
